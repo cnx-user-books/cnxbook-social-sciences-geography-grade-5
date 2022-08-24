@@ -1,3 +1,68 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10986</md:content-id>  <md:title>Social Sciences: Geography Grade 5</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>21f45bb0-6c3e-4dc3-bf71-281de4257b9a</md:uuid>
-<md:slug>social-sciences-geography-grade-5</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m29677"/>                            <col:module document="m29671"/>                            <col:module document="m29673"/>                            <col:module document="m29680"/>                            <col:module document="m29676"/>                            <col:module document="m29682"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m22263"/>                            <col:module document="m22266"/>                            <col:module document="m22267"/>                            <col:module document="m22268"/>                            <col:module document="m22264"/>                            <col:module document="m22269"/>                            <col:module document="m22272"/>                            <col:module document="m22273"/>                            <col:module document="m22274"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m22291"/>                            <col:module document="m22296"/>                            <col:module document="m22302"/>                            <col:module document="m22306"/>                            <col:module document="m22309"/>                            <col:module document="m22310"/>                            <col:module document="m22316"/>                            <col:module document="m22319"/>                            <col:module document="m22332"/>                            <col:module document="m22338"/>                            <col:module document="m22344"/>                            <col:module document="m22345"/>                            <col:module document="m22346"/>                            <col:module document="m29685"/>                            <col:module document="m22349"/>                            <col:module document="m22350"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m22351"/>                            <col:module document="m22352"/>                            <col:module document="m29683"/>                            <col:module document="m22353"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10986</md:content-id>
+    <md:title>Social Sciences: Geography Grade 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>21f45bb0-6c3e-4dc3-bf71-281de4257b9a</md:uuid>
+    <md:slug>social-sciences-geography-grade-5</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m29677"/>
+        <col:module document="m29671"/>
+        <col:module document="m29673"/>
+        <col:module document="m29680"/>
+        <col:module document="m29676"/>
+        <col:module document="m29682"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m22263"/>
+        <col:module document="m22266"/>
+        <col:module document="m22267"/>
+        <col:module document="m22268"/>
+        <col:module document="m22264"/>
+        <col:module document="m22269"/>
+        <col:module document="m22272"/>
+        <col:module document="m22273"/>
+        <col:module document="m22274"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m22291"/>
+        <col:module document="m22296"/>
+        <col:module document="m22302"/>
+        <col:module document="m22306"/>
+        <col:module document="m22309"/>
+        <col:module document="m22310"/>
+        <col:module document="m22316"/>
+        <col:module document="m22319"/>
+        <col:module document="m22332"/>
+        <col:module document="m22338"/>
+        <col:module document="m22344"/>
+        <col:module document="m22345"/>
+        <col:module document="m22346"/>
+        <col:module document="m29685"/>
+        <col:module document="m22349"/>
+        <col:module document="m22350"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m22351"/>
+        <col:module document="m22352"/>
+        <col:module document="m29683"/>
+        <col:module document="m22353"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
